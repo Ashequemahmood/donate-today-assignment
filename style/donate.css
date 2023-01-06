@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    border: 0px;
+}
+.banner-container{
+    background-image: url("../images/donation1.jpg");
+    background-blend-mode: overlay;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    padding-top: 25%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.banner-title{
+    color: beige;
+    margin: auto;
+    
+}
+.description{
+    margin: auto;
+    padding: 5px 100px;
+}
+.button{
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+
+}
